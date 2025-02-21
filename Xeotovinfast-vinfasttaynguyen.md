@@ -1,6 +1,6 @@
 # Mục liên kết đến xe ô tô VinFast
 
-1. [Giới thiệu về xe ô tô VinFast] - Xem chi tiết tại đây(https://vinfasttaynguyen.com/vinfast/xe-o-to-vinfast-daklak)
+1. Giới thiệu về xe ô tô VinFast - [Xem chi tiết tại đây](https://vinfasttaynguyen.com/vinfast/xe-o-to-vinfast-daklak)
 2. [Danh sách xe VinFast](https://vinfasttaynguyen.com/vinfast/xe-o-to-vinfast-daklak) - Xem chi tiết tại đây
    - [Xe VinFast VF3](https://vinfasttaynguyen.com/vinfast/xe-o-to-vinfast-daklak) - Xem chi tiết tại đây
    - [Xe VinFast VF5](https://vinfasttaynguyen.com/vinfast/xe-o-to-vinfast-daklak) - Xem chi tiết tại đây
